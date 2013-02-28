@@ -1,0 +1,25 @@
+/* Aaron Fruth - Copyright 2013
+ * SASS Stylesheet for Portfolio Site
+ */
+body {
+  margin: 0px;
+  padding: 0px; }
+
+.container-narrow {
+  width: 1000px;
+  margin: 0px auto; }
+
+.masthead img {
+  height: 60px;
+  margin: 20px 0px; }
+.masthead .nav {
+  margin: 30px 0px; }
+.masthead .nav-pills a {
+  font-weight: bold;
+  color: #fc2500; }
+.masthead .active a {
+  color: white;
+  background-color: #fc2500; }
+
+hr {
+  clear: both; }
